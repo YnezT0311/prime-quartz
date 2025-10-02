@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ynezt0311.github.io/prime-quartz/sitemap.xml
